@@ -1,0 +1,15 @@
+#firstmargin{
+    border: 2px solid red;
+    margin-top: 50px;
+    margin-right: 500px;
+    margin-bottom: 150px;
+    margin-left: 200px;
+}
+
+#secondmargin{
+    border: 2px solid blue;
+    /*margin-top: 50px;*/
+    margin-right: 500px;
+    margin-bottom: 150px;
+    margin-left: 300px;
+}
