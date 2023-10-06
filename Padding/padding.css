@@ -1,0 +1,14 @@
+#first{
+    border: 2px solid red;
+    width: 600px;
+}
+
+#second{
+    border: 3px solid blue;
+    width: 600px;
+    /* padding: 5px;*/
+    /* padding: 0px 50px;*/
+    padding: 50px 0px;
+    text-align: center;
+    /* align-items: center; /* didn't worked Why? */
+}
