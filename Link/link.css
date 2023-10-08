@@ -4,7 +4,7 @@ a:link, a:visited {
     color: white;
     text-align: center;
     text-decoration: none;
-    /* display: inline-block;     */
+    display: inline-block;    
 }
 
 a:hover, a:active {
@@ -24,3 +24,4 @@ a.first:hover, a.first:active{
     background-color: green;
     color: white;
 }
+/* is now working check */
